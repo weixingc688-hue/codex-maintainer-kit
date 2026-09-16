@@ -1,0 +1,5 @@
+abc1234 Add CLI doctor command
+Implements env checks.
+---
+def5678 Fix empty commits file handling
+---
